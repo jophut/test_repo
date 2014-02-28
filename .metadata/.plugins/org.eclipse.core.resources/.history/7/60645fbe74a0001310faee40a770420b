@@ -13,5 +13,3 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
-
-// This is some extra code, just to test Git
